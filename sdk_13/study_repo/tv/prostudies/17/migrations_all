@@ -1,6 +1,6 @@
 [
   {
-    "pkgName" : "prostudies",
+    "pkgName" : "tv-prostudies",
     "studyMigrations" : [
       {
         "rules" : [
@@ -43,23 +43,12 @@
     "versTo" : "14"
   },
   {
-    "pkgName" : "prostudies",
-    "studyMigrations" : [ ],
-    "versFrom" : "14",
-    "versTo" : "15"
-  },
-  {
-    "pkgName" : "prostudies",
-    "studyMigrations" : [ ],
-    "versFrom" : "15",
-    "versTo" : "16"
-  },
-  {
-    "pkgName" : "prostudies",
+    "pkgName" : "tv-prostudies",
     "studyMigrations" : [
       {
         "rules" : [
           {
+            "action" : "removeVal",
             "inputId" : "drawWicks",
             "type" : "inputRemoved"
           }

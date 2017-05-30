@@ -1,6 +1,6 @@
 [
   {
-    "pkgName" : "prostudies",
+    "pkgName" : "tv-prostudies",
     "studyMigrations" : [
       {
         "rules" : [
@@ -41,17 +41,5 @@
     ],
     "versFrom" : "13",
     "versTo" : "14"
-  },
-  {
-    "pkgName" : "prostudies",
-    "studyMigrations" : [ ],
-    "versFrom" : "14",
-    "versTo" : "15"
-  },
-  {
-    "pkgName" : "prostudies",
-    "studyMigrations" : [ ],
-    "versFrom" : "15",
-    "versTo" : "16"
   }
 ]

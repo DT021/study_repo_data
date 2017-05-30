@@ -1,9 +1,10 @@
 {
-  "pkgName" : "prostudies",
+  "pkgName" : "tv-prostudies",
   "studyMigrations" : [
     {
       "rules" : [
         {
+          "action" : "removeVal",
           "inputId" : "drawWicks",
           "type" : "inputRemoved"
         }
