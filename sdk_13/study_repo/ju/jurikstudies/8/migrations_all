@@ -1,6 +1,6 @@
 [
   {
-    "pkgName" : "jurikstudies",
+    "pkgName" : "ju-jurikstudies",
     "studyMigrations" : [
       {
         "rules" : [
@@ -149,17 +149,5 @@
     ],
     "versFrom" : "5",
     "versTo" : "6"
-  },
-  {
-    "pkgName" : "ju-jurikstudies-1",
-    "studyMigrations" : [ ],
-    "versFrom" : "6",
-    "versTo" : "7"
-  },
-  {
-    "pkgName" : "ju-jurikstudies-1",
-    "studyMigrations" : [ ],
-    "versFrom" : "7",
-    "versTo" : "8"
   }
 ]
