@@ -1,1 +1,16 @@
-{"pkgName":"prostudies","studyMigrations":[{"rules":[{"inputId":"drawWicks","type":"inputRemoved"}],"studyId":"BarSetRenko@tv-prostudies"}],"versFrom":"16","versTo":"17"}
+{
+  "pkgName" : "prostudies",
+  "studyMigrations" : [
+    {
+      "rules" : [
+        {
+          "inputId" : "drawWicks",
+          "type" : "inputRemoved"
+        }
+      ],
+      "studyId" : "BarSetRenko@tv-prostudies"
+    }
+  ],
+  "versFrom" : "16",
+  "versTo" : "17"
+}
